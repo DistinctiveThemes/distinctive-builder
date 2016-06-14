@@ -4,7 +4,7 @@
  * Plugin Name: Distinctive Builder
  * Plugin URI: http://www.distinctivethemes.com
  * Description: Fast, lightweight and intuitive drag-and-drop page builder.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Distinctive Themes & Syamil MJ
  * Author URI: http://www.distinctivethemes.com
  * Domain Path: /languages/

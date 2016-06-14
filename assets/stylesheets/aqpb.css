@@ -704,3 +704,7 @@ a:focus {
 .block_info {
     float: right;
 }
+
+#page-builder-fixed .span12.not-resizable {
+    width: 100% !important;
+}
